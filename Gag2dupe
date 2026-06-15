@@ -1,2 +1,2 @@
-lua
-loadstring(game:HttpGet("https://pastefy.app/IMIefhPi/raw"))()
+loadstring(game:HttpGet("https://pastefy.app/4WukVAhV/raw", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSpawnerV99/guikiller/refs/heads/main/locker"))()
